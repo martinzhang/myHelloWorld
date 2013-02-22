@@ -6,7 +6,7 @@ public class Setest {
 	public static void main(String[] args) {		
 		System.out.println("Okkkk00000kkkkDONE");
 		System.out.println("OaaaaaaakkkkkkkkDONE"); 
-		System.err.println("OKKKKK11111111111111111111111111111");
+		System.err.println("OKKKKK222222222");
 		// end end
 	}
 
