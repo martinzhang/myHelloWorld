@@ -10,6 +10,6 @@ public class Setest {
 		// end end
 	}
 	// rebase 2 3 4
-	// new change, urgent fix ..
+	// new change, urgent fix .. ok, fixed
 }
 
